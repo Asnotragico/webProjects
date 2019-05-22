@@ -1,0 +1,51 @@
+body {
+    background-color: #a6b1b2;
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 23px;
+    margin-bottom: 7px;
+}
+
+div {
+    background-color: white;
+}
+table {
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+td {
+
+    border: 3px solid white;
+    width: 170px;
+    height: 470px;
+
+}
+
+/*https://htmlcolors.com/color-wheel*/
+
+#uno {
+    background-color: #ca00ff;
+}
+
+#dos {
+    background-color: #ff00b0;
+}
+
+#tres {
+    background-color: #ff0000;
+}
+
+#cuatro {
+    background-color: #ff3300;
+}
+
+#cinco {
+    background-color: #ff6700;
+}
