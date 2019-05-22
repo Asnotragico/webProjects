@@ -1,0 +1,28 @@
+
+
+body {
+    background-color: #e6efe9;
+
+
+}
+.container {
+    background-color: #ccead8;
+}
+
+.jumbotron {
+    background-color: #effcf4;
+}
+
+.navbar-default {
+    background-color: #2c302d;
+
+}
+
+.navbar-default .navbar-brand {
+    color: #f4fffd;
+}
+
+
+.active a{
+    background-color: #effcf4 !important;
+}
