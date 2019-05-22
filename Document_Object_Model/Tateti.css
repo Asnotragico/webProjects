@@ -1,0 +1,87 @@
+body {
+    background-color: #1fb71f;
+}
+
+.jumbotron {
+    font-family: 'Stylish', sans-serif;
+    color: white;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: 280px;
+    vertical-align: 10px;
+}
+
+#c2 {
+    border-radius: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 90%;
+    background-color: #3fdb54;
+}
+
+#restart {
+    color: white;
+    background-color: red;
+    border: 0px;
+    width: 20%;
+    height: 45px;
+}
+
+table {
+    background-color: ;
+    color: white;
+    border: 0px;
+
+}
+
+::selection{
+    background: #3fdb54;
+    /*mismo color que c2*/
+}
+
+td {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font-size: 100px;
+
+    border: 7px solid #000000;
+}
+
+#td1 {
+
+    border-top: 0px;
+    border-left: 0px;
+}
+
+#td2 {
+    border-top: 0px;
+}
+
+#td3 {
+    border-top: 0px;
+    border-right: 0px;
+}
+
+#td4 {
+    border-left: 0px;
+}
+
+#td6 {
+    border-right: 0px;
+}
+
+#td7 {
+    border-bottom: 0px;
+    border-left: 0px;
+}
+
+#td8 {
+    border-bottom: 0px;
+}
+
+#td9 {
+    border-bottom: 0px;
+    border-right: 0px;
+}
